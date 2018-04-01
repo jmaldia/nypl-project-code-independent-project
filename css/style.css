@@ -119,7 +119,7 @@ nav * {
 	padding-left: 15px;
 	font-size: 25px;
 	font-weight: 800;
-	color: #ffffff;
+	color: var(--ph-white);
 	letter-spacing: 4px;
 }
 
@@ -175,7 +175,7 @@ section#main {
 	justify-content: center;
 	align-items: center;
 	text-shadow: 1px 1px 1px rgba(20, 20, 20, .8);
-	color: #ffffff;
+	color: var(--ph-white);
 }
 
 #main h1 {
@@ -312,7 +312,7 @@ footer {
 
 .card .back {
   background: #222222;
-  color: #ffffff;
+  color: ;
   /*line-height: 150px;*/
   text-align: center;
   transform: rotateY(180deg);
